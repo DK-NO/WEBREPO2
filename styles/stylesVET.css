@@ -1,0 +1,338 @@
+body
+{
+	background-image: url("http://localhost/REPO/Fondos/tigre1.jpg"); 
+	background-attachment: fixed;
+}
+
+.contenedor-nav, .contenedor-carousel
+{
+    padding: 0;
+}
+
+.navbar
+{
+    background: #000000;
+}
+
+.links-acceso
+{
+    padding-right: 5rem;   
+}
+
+.contenedor-expositores
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+#image, #image1, #image2, #image3, #image4, #image5, #image6, #image7, #image8, #image9, #image10, #image11, #image12, #image13, #image14, #image15, #image16, #image17, #image18, #image19, #image20, #image21, #image22, #image23, #image24
+{
+    width: 13rem;
+}
+.cuer1
+{
+    width: 35%;
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+    float: left;
+}
+.cuer2
+{
+    width: 35%;
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+    float: right;
+}
+.col-sm-12:hover
+{
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+}
+.expositores-text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.contenedor-footer
+{
+    padding: 3rem;
+    background: black;
+}
+
+.contenedor-redes
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo
+{
+    border-radius: 4rem;
+    border-radius: 25px;
+}
+
+.formu 
+{
+	width: 70%;
+	
+	background-color: rgba(200,200,200,0.7);
+	box-shadow: 0px 0px 10px 5px rgba(22,22,22,0.5);
+	margin: 80px auto;
+	text-align: center;
+	padding-top: 20px; 
+	font-family: fuente3;
+	font-size: 30px;
+	color: rgb(255,255,255);
+	border-radius: 40px;
+	line-height: 50px;
+
+}
+
+.formu table
+{
+	margin: auto;
+}
+
+.formu label a
+{
+	cursor: pointer;
+	color: white;
+}
+
+.entrada
+{
+	width: 200px;
+	height: 35px;
+	border-radius: 15px;
+	border: none;
+	margin: 15px 0px;
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+}
+
+.entrada1
+{
+	width: 200px;
+	height: 35px;
+	border-radius: 5px;
+	border: none;
+	margin: 15px 0px;
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.entrada2
+{
+	width: 120px;
+	height: 35px;
+	border-radius: 5px;
+	border: none;
+	margin: 15px 0px;
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+}
+.selectorC
+{
+	width: 200px;
+	height: 35px;
+	border: none;
+	background-color: rgba(22,22,22,0.4); 
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+
+.selector
+{
+	height: 35px;
+	width: 60px;
+	border-radius: 5px;
+	border: none;
+	background-color: rgba(22,22,22,0.4); 
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+
+.selector1
+{
+	height: 35px;
+	width: 100px;
+	border-radius: 5px;
+	border: none;
+	background-color: rgba(22,22,22,0.4); 
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+
+.selector2
+{
+	height: 35px;
+	width: 70px;
+	border: none;
+	background-color: rgba(22,22,22,0.4); 
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+.selector3
+{
+	height: 35px;
+	width: 100px;
+	border: none;
+	background-color: rgba(22,22,22,0.4); 
+	font-family: fuente3;
+	font-size: 20px;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+
+.boton
+{
+	width: 200px;
+	height: 80px;
+	border: none;
+	border-radius: 40px;
+	font-size: 35px;
+	color: white;
+	background-color: rgba(22,22,22,0.6);
+	font-family: fuente1;
+	line-height: 80px;
+	transition: all ease 0.5s;
+	margin-top: 20px; 
+}
+
+.boton:hover
+{
+	background-color: rgb(240,240,240);
+	color: rgb(0,0,0);
+	box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+}
+
+.iz
+{
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.iz a
+{
+	text-decoration: none;
+	color: rgb(0,0,0);
+	transition: all ease 0.5s;
+	display: block;
+}
+
+.iz a:hover
+{
+	text-shadow: 0px 0px 3px rgb(120,0,100);
+	color: white;
+}
+
+.de
+{
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+.de a
+{
+	text-decoration: none;
+	color: rgb(0,0,0);
+	transition: all ease 0.5s;
+	display: block;
+}
+
+.de a:hover
+{
+	text-shadow: 0px 0px 3px rgb(120,0,100);
+	color: white;
+}
+
+#ventana10
+{
+	width: 100%;
+	height: 100vh;
+	z-index: -2;
+	opacity: 0;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: (0,0,0,0);
+}
+
+#ventana10 div
+{
+	width: 600px;
+	height: 250px;
+	/*background-image: url("http://localhost/bonsai/imagenes/fondo3.jpg");*/
+	background-color: rgba(200,200,200);
+	border-radius: 25px;
+	box-shadow: 0px 0px 10px 5px rgba(22,22,22,0.5);
+	text-align: justify;
+	padding: 20px;
+	font-family: arial;
+	font-size: 20px;
+	line-height: 30px;
+	position: absolute;
+	top: 65%;
+	left: 30%;	
+}
+
+#ventana10:target
+{
+	z-index: 1;
+	opacity: 1;
+}
+
+#cerrar10 a
+{
+	background-color: black;
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	width: 30px;
+	height: 30px;
+	border-radius: 5px;
+	position: relative;
+	left: 95%;
+	z-index: 4;
+	transition: ease all 1s;
+}
+#cerrar10 a:hover
+{
+	background-color: red;
+	color: black;
+	border-radius: 50px;
+	box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+	
+}

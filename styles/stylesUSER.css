@@ -1,0 +1,119 @@
+*
+{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+body
+{
+	background-image: url("http://localhost/Vadmin/fondos/Grandes1.jpg");
+	background-attachment: fixed; 
+}
+
+
+.contenedor-nav, .contenedor-carousel
+{
+    padding: 0;
+}
+
+.navbar
+{
+    background: #000000;
+}
+
+.links-acceso
+{
+    padding-right: 5rem;   
+}
+
+.contenedor-expositores
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    background: rgb(255,255,255,0.7);
+    box-shadow: 0px 0px 25px 20px rgba(247, 241, 241, 0.5);
+    border-radius: 3rem;
+}
+.contenedor-Block
+{
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    background: rgb(255,255,255,0.7);
+    border-radius: 1rem;
+}
+
+#image, #image1, #image2, #image3, #image4, #image5, #image6, #image7, #image8, #image9, #image10, #image11, #image12, #image13, #image14, #image15, #image16, #image17, #image18, #image19, #image20, #image21, #image22, #image23, #image24
+{
+    width: 13rem;
+}
+.cuer1
+{
+    width: 35%;
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+    float: left;
+}
+.cuer2
+{
+    width: 35%;
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+    float: right;
+}
+.col-lg-11
+{
+    clear: both;
+}
+.col-sm-4
+{
+    float: left;
+}
+.col-sm-12:hover
+{
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+}
+.col-lg-12
+{
+    background: rgb(2,2,2,0.5);
+    box-shadow: 0px 0px 25px 20px rgba(22,22,22,0.5);
+    border-radius: 3rem;
+    text-align: center;
+}
+.expositores-text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.Block-text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.contenedor-footer
+{
+    padding: 3rem;
+    background: black;
+}
+
+.contenedor-redes
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo
+{
+    border-radius: 4rem;
+    border-radius: 25px;
+}
